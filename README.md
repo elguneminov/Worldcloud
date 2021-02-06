@@ -1,5 +1,5 @@
 # Worldcloud
-#Wordcloud Data Visualisation
+Wordcloud Data Visualisation
 
-#Azerbaijan Economical data have been visualised via Python
+Azerbaijan Economical data have been visualised via Python
 
